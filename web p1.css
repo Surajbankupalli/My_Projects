@@ -1,0 +1,228 @@
+*{
+    margin: 0;
+}
+.nav{
+    background-color: #96CD32;
+    display: flex;
+    height: 150px;
+    justify-content: space-around;
+    align-items: center;
+}
+.main{
+    display:flex;
+
+}
+.main1{
+    width:30%;
+    height: 490px;
+    background-color: #FAE1C3;
+    
+}
+.main1 p{
+    margin-left: 10px;
+    margin-top: 30px;
+}
+.main2{
+    width:70%;
+    background-color: #FAA500;
+    height: 440px;
+    padding-top: 50px;
+}
+.main2 img{
+    width: 230px;
+    padding-left: 330px;
+}
+#p11{
+    font-family: "Brush Script MT", cursive; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px;
+    padding-top: 20px;
+    padding-left: 320px;
+    color: blue;
+}
+#p12{
+    font-family: "Brush Script MT", cursive; font-size: 28px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px;
+    margin-top: 80px;
+    padding-left: 260px;
+    color: red;
+}
+
+#login-img{
+    width: 300px;
+    padding-left: 430px;
+}
+
+#l1{
+    height: 640px;
+    padding-top: 100px;
+}
+#details{
+    color: purple;
+    padding-left: 400px;
+    font-size: 40px;
+}
+
+#buttons{
+    display: flex;
+    width: 20%;
+    padding-left: 10px;
+    padding-top: 10px;
+    justify-content: space-between;
+}
+
+#tables{
+    padding-left: 400px;
+}
+
+#reset{
+    padding-left: 100px;
+}
+#home{
+    height: 600px;
+}
+
+#reg{
+    background-color: rgb(224, 240, 246);
+    height: 640px;
+    padding-left: 10px;
+}
+
+#mee input{
+    width: 120px;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+
+#stars{
+    color: red;
+}
+
+#form1{
+    color: darkblue;
+    padding-top: 10px;
+}
+
+#members{
+    padding-top: 20px;
+}
+
+#gender{
+    padding-top: 20px;
+}
+#male{
+    margin-left: 10px;
+}
+#female{
+    margin-left: 10px;
+}
+
+#add{
+    height: 40px;
+}
+
+#but{
+    padding-top: 20px;
+    display: flex;
+    width: 10%;
+    justify-content: space-between;
+}
+
+#onemail{
+    color: red;
+}
+
+#smith{
+    margin-left: 15px;
+    color: lightseagreen;
+}
+
+#catalogue{
+    height: 640px;
+    background-color: #FFBFCD;
+}
+#catalogue table{
+    padding-top: 50px;
+    
+}
+#catalogue img{
+    width: 150px;
+}
+
+.trow{
+    width: 450px;
+}
+.t2row{
+    width: 200px;
+}
+
+#eee1{
+    display: flex;
+}
+
+#cse{
+    height: 640px;
+    background-color: #02FFFF;
+}
+
+#cset{
+    padding-left: 350px;
+    padding-top: 30px;
+    color: blue;
+    font-size: 40px;
+}
+
+#fields{
+    margin-left: 450px;
+}
+#twobooks{
+    margin-left: 14px;
+    margin-top: 50px;
+    width: 150px;
+}
+#no{
+    width: 150px;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+
+#ok1{
+    margin-left: 540px;
+    margin-top: 20px;
+}
+
+#cost{
+    margin-left: 400px;
+    margin-top: 100px;
+    font-size: 20px;
+}
+
+#ece{
+    height: 640px;
+    background-color: #DDA0DC;
+}
+
+#ecet{
+    padding-left: 250px;
+    padding-top: 100px;
+    color: blue;
+    font-size: 40px;
+}
+#ece li{
+    margin-left: 250px;
+    margin-top: 50px;
+}
+
+#eee{
+    height: 640px;
+    background-color: #9470DC;
+}
+#eee li{
+    margin-left: 250px;
+    margin-top: 50px;
+}
+#mech{
+    height: 640px;
+    background-color: #FED700;
+}
+#mech li{
+    margin-left: 250px;
+    margin-top: 50px;
+}
